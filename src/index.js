@@ -56,3 +56,4 @@ function handleBuyTicket(Ticket) {
     }
 }
 console.log(handleBuyTicket);
+
